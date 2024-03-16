@@ -1,0 +1,14 @@
+{
+  "name": "remote_procedure_call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cliant.js",
+  "scripts": {
+    "dev": "node cliant.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "net": "^1.0.2"
+  }
+}
